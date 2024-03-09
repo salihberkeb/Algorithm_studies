@@ -1,2 +1,2 @@
 # Algorithm_studies
-merhaba
+Eğitim amaçlı bazı algoritma çalışmaları
